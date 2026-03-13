@@ -22,3 +22,17 @@ Administrators must follow this format when uploading research files.
 ## TXT Metadata Format
 
 Follow this exact format inside the `.txt` file:
+-Title:
+-Authors:
+-Date Published:
+-Grade:
+-Strand:
+-Section:
+-Research Type:
+-Format and Design:
+-Subject Area:
+-School Year:
+-Adviser:
+-Keywords:
+-Award:
+-Abstract:
